@@ -13,6 +13,15 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 
 # 2021/02
 
+## Gabriel Rodrigues Falcade
+
+- [NX Zero - Maré](https://www.youtube.com/watch?v=nWwLBYutPZk)
+- [Skid Row - 18 and life](https://www.youtube.com/watch?v=Ghd2bkIadG4)
+- [Megadeth - Symphony of Destruction](https://www.youtube.com/watch?v=WdoXZf-FZyA)
+- [George Thorogood & The Destroyers - Bad to the bone](https://www.youtube.com/watch?v=8KciRaANKmo)
+- [Bon Jovi - Wanted Dead Or Alive](https://www.youtube.com/watch?v=SRvCvsRp5ho)
+- [Steppenwolf - Born To Be Wild](https://www.youtube.com/watch?v=egMWlD3fLJ8)
+
 # 2021/01 (encerrado)
 
 ## Eduardo Spagna
