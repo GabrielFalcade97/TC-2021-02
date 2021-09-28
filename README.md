@@ -4,6 +4,7 @@
 
 ## Alunos - 2021-02
 - [Novo Aluno](https://github.com/novo_aluno)
+- [Gabriel Rodrigues Falcade](http://github.com/GabrielFalcade97)
 
 ## Semestres Passados
 
